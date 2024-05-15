@@ -30,7 +30,7 @@ if (isset($_POST['login'])) {
             header("Location: dashboard.php");
             exit;
         } else {
-            $errorMessage = "Invalid guuuurl!";
+            $errorMessage = "Gurl, it's invalid!";
         }
     } else {
         $errorMessage = "User not found!";
