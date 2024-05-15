@@ -1,0 +1,16 @@
+.whitefontlink a {
+    color: white;
+}
+
+a {
+    color: rgb(186, 147, 69);
+}
+
+li {
+    color: white;
+}
+
+.bold-text {
+    font-weight: bold;
+}
+
